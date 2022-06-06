@@ -39,7 +39,7 @@
 	font-family: font;
 	src: url(../fonts/font/DancingScript-VariableFont_wght.ttf);
 }
-html,
+tml,
 body {
 	height: 100%;
 	font-family: font;
@@ -50,7 +50,7 @@ body {
 h1,
 h2,
 h3,
-h4,
+h4,h
 h5,
 h6 {
 	margin: 0;
@@ -729,7 +729,7 @@ ol {
 .product__sidebar .section-title h5 {
 	color: #ffffff;
 	font-weight: 600;
-	font-family: "Oswald", sans-serif;
+	font-family: DancingScript;
 	line-height: 21px;
 	text-transform: uppercase;
 	padding-left: 20px;
@@ -1351,7 +1351,7 @@ ol {
 .normal__breadcrumb__text h2 {
 	color: #ffffff;
 	font-size: 48px;
-	font-family: "Oswald", sans-serif;
+	font-family: DancingScript;
 	font-weight: 700;
 	margin-bottom: 22px;
 }
@@ -1747,7 +1747,7 @@ ol {
 .login__form h3 {
 	color: #ffffff;
 	font-weight: 700;
-	font-family: "Oswald", sans-serif;
+	font-family: DancingScript;
 	margin-bottom: 30px;
 }
 
@@ -1826,7 +1826,7 @@ ol {
 .login__register h3 {
 	color: #ffffff;
 	font-weight: 700;
-	font-family: "Oswald", sans-serif;
+	font-family: DancingScript;
 	margin-bottom: 30px;
 }
 
@@ -1893,7 +1893,9 @@ ol {
 	left: 32px;
 	top: 14px;
 }
-
+.principal{
+	color: #034159;
+}
 /*---------------------
   Sign Up
 -----------------------*/
@@ -1926,7 +1928,7 @@ ol {
 .signup .login__social__links h3 {
 	color: #ffffff;
 	font-weight: 700;
-	font-family: "Oswald", sans-serif;
+	font-family: DancingScript;
 	margin-bottom: 30px;
 }
 
